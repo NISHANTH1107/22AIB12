@@ -2,6 +2,7 @@ import logging
 import uuid
 import time
 import requests
+import os
 from datetime import datetime, timedelta
 from typing import Dict, List, Optional
 from fastapi import FastAPI, HTTPException, Request, status
