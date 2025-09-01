@@ -1,0 +1,38 @@
+2025-09-01 11:10:21,852 - url_shortener - INFO - Method=POST Path=/shorturls Status=201 ProcessTime=226.51ms
+2025-09-01 11:10:24,169 - url_shortener - INFO - Method=GET Path=/test123 Status=307 ProcessTime=182.60ms
+2025-09-01 11:10:26,713 - url_shortener - INFO - Method=GET Path=/shorturls/test123 Status=200 ProcessTime=290.69ms
+2025-09-01 11:10:29,101 - url_shortener - INFO - Method=GET Path=/nonexistent Status=404 ProcessTime=224.33ms
+2025-09-01 11:10:31,494 - url_shortener - INFO - Method=POST Path=/shorturls Status=409 ProcessTime=236.03ms
+2025-09-01 11:20:11,511 - url_shortener - ERROR - Log API returned status 401: {"message":"invalid authorization token"}
+2025-09-01 11:20:11,533 - url_shortener - INFO - Method=POST Path=/shorturls Status=201 ProcessTime=189.07ms
+2025-09-01 11:20:11,656 - url_shortener - ERROR - Log API returned status 401: {"message":"invalid authorization token"}
+2025-09-01 11:20:13,813 - url_shortener - ERROR - Log API returned status 401: {"message":"invalid authorization token"}
+2025-09-01 11:20:13,815 - url_shortener - INFO - Method=GET Path=/test123 Status=307 ProcessTime=130.89ms
+2025-09-01 11:20:13,934 - url_shortener - ERROR - Log API returned status 401: {"message":"invalid authorization token"}
+2025-09-01 11:20:16,106 - url_shortener - ERROR - Log API returned status 401: {"message":"invalid authorization token"}
+2025-09-01 11:20:16,107 - url_shortener - INFO - Method=GET Path=/shorturls/test123 Status=200 ProcessTime=156.18ms
+2025-09-01 11:20:16,216 - url_shortener - ERROR - Log API returned status 401: {"message":"invalid authorization token"}
+2025-09-01 11:20:18,382 - url_shortener - ERROR - Log API returned status 401: {"message":"invalid authorization token"}
+2025-09-01 11:20:18,382 - url_shortener - INFO - Method=GET Path=/nonexistent Status=404 ProcessTime=138.43ms
+2025-09-01 11:20:18,508 - url_shortener - ERROR - Log API returned status 401: {"message":"invalid authorization token"}
+2025-09-01 11:20:20,720 - url_shortener - ERROR - Log API returned status 401: {"message":"invalid authorization token"}
+2025-09-01 11:20:20,723 - url_shortener - INFO - Method=POST Path=/shorturls Status=409 ProcessTime=188.51ms
+2025-09-01 11:20:20,860 - url_shortener - ERROR - Log API returned status 401: {"message":"invalid authorization token"}
+2025-09-01 11:20:31,936 - url_shortener - ERROR - Log API returned status 401: {"message":"invalid authorization token"}
+2025-09-01 11:20:31,937 - url_shortener - INFO - Method=GET Path=/test123 Status=307 ProcessTime=197.58ms
+2025-09-01 11:20:32,090 - url_shortener - ERROR - Log API returned status 401: {"message":"invalid authorization token"}
+2025-09-01 11:42:13,339 - url_shortener - ERROR - Log API returned status 401: {"message":"invalid authorization token"}
+2025-09-01 11:42:13,358 - url_shortener - INFO - Method=POST Path=/shorturls Status=201 ProcessTime=190.92ms
+2025-09-01 11:42:13,485 - url_shortener - ERROR - Log API returned status 401: {"message":"invalid authorization token"}
+2025-09-01 11:42:15,659 - url_shortener - ERROR - Log API returned status 401: {"message":"invalid authorization token"}
+2025-09-01 11:42:15,659 - url_shortener - INFO - Method=GET Path=/test123 Status=307 ProcessTime=135.66ms
+2025-09-01 11:42:15,745 - url_shortener - ERROR - Log API returned status 401: {"message":"invalid authorization token"}
+2025-09-01 11:42:17,873 - url_shortener - ERROR - Log API returned status 401: {"message":"invalid authorization token"}
+2025-09-01 11:42:17,875 - url_shortener - INFO - Method=GET Path=/shorturls/test123 Status=200 ProcessTime=97.37ms
+2025-09-01 11:42:18,008 - url_shortener - ERROR - Log API returned status 401: {"message":"invalid authorization token"}
+2025-09-01 11:42:20,179 - url_shortener - ERROR - Log API returned status 401: {"message":"invalid authorization token"}
+2025-09-01 11:42:20,179 - url_shortener - INFO - Method=GET Path=/nonexistent Status=404 ProcessTime=115.53ms
+2025-09-01 11:42:20,293 - url_shortener - ERROR - Log API returned status 401: {"message":"invalid authorization token"}
+2025-09-01 11:42:22,456 - url_shortener - ERROR - Log API returned status 401: {"message":"invalid authorization token"}
+2025-09-01 11:42:22,457 - url_shortener - INFO - Method=POST Path=/shorturls Status=409 ProcessTime=109.79ms
+2025-09-01 11:42:22,558 - url_shortener - ERROR - Log API returned status 401: {"message":"invalid authorization token"}
